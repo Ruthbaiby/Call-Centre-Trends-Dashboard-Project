@@ -31,7 +31,7 @@ Customer Trends: High call abandonment rates during peak hours indicate a need f
 Agent Performance: Identified top-performing agents and those needing support.
 Operational Efficiency: Average speed of answer and handle times highlight service bottlenecks.
 
-Open the Power BI file (Call_Centre_Trends.pbix) to explore the dashboard.
+Open the Power BI file (FIRST POWER BI DASHBOARD WITH PWC-FORAGE.pbix) to explore the dashboard.
 Interact with the visualizations to uncover insights.
 
 # Results and Impact
